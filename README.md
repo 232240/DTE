@@ -1,2 +1,2 @@
 # DTE
-COde
+Development log for my code
